@@ -1,7 +1,6 @@
 # Seokman Cho
 
-South Korea 🇰🇷 | tunaflo@gmail.com | +82-10-3613-0267
-[GitHub](https://github.com/0x0e814b)
+South Korea 🇰🇷 | tunaflo@gmail.com | +82-10-3613-0267 | [GitHub](https://github.com/0x0e814b)
 
 ## Summary
 
