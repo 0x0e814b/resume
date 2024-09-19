@@ -16,7 +16,7 @@ I am Seokman Cho, a Front-end Developer based in South Korea with 6 years of exp
 
 ## Professional Experience
 
-### FRONT END Developer | NHN Bugs, Seoul
+### FRONT END Developer | NHN Bugs, Seoul  
 *September 2022 - Present*
 
 - Improved performance by refactoring Java Spring + Freemarker based codebase
@@ -24,12 +24,12 @@ I am Seokman Cho, a Front-end Developer based in South Korea with 6 years of exp
 - Implemented silent listening log measurement system and developed Audio Visualizer
 - Led the renewal of NHN Bugs legacy framework and optimized internal platform build environment
 
-### Developer | NHN SOFT, Seoul
+### Developer | NHN SOFT, Seoul  
 *August 2022 - September 2022*
 
 - Developed and maintained NHN's in-house services
 
-### Senior Researcher | CTSOFT, Bokjeong
+### Senior Researcher | CTSOFT, Bokjeong  
 *May 2018 - June 2022*
 
 - Led and successfully completed multiple pilot projects
@@ -38,8 +38,7 @@ I am Seokman Cho, a Front-end Developer based in South Korea with 6 years of exp
 
 ## Key Projects
 
-### Bugs LiteApp, Essential; App (Smart TV App)
-*NHN Bugs | September 2022 - Present*
+### Bugs LiteApp, Essential; App (Smart TV App)  
 **Tech Stack:** React, Webpack, TypeScript, SCSS
 
 - Designed and developed music streaming apps based on WebOS (LG) / Tizen (Samsung)
