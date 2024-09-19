@@ -75,7 +75,7 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 **기술 스택:** nw.js, HTML, Scss, Javascript
 
 - 기존 플래시로 개발된 전자교과서의 애니메이션과 문제풀이 액션을 HTML로 전환
-- Web Animation Api 활용 애니메이션 및 Nw.js기반 교과서 컨텐츠 작성
+- Web Animation API 활용 애니메이션 및 Nw.js기반 교과서 컨텐츠 작성
 
 ### 레인보우 복지 플랫폼
 **기술 스택:** Angular 9, Typescript, Ionic FrameWork
@@ -107,7 +107,7 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 **기술 스택:** Angular 10, Typescript, Scss, Ionic Framework
 
 - 렌트카 계약 어플리케이션으로 렌트카 계약 및 배차 기사 호출, 배차 알림 등의 기능을 탑재한 하이브리드 어플리케이션
-- REST Api를 통한 배차가능 차량 조회 및 예약
+- REST API를 통한 배차가능 차량 조회 및 예약
 - 배정완료시 FCM을 통한 알림
 
 ### SK Telecom 자율주행 차량 대쉬보드 프로토타입
