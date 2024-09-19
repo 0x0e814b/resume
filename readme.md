@@ -12,7 +12,7 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 
 ## 선호 언어
 
-- **프로그래밍 언어:** JavaScript (ES6+), Typescript, Java
+- **프로그래밍 언어:** JavaScript (ES6+), TypeScript, Java
 - **프론트엔드:** React.js, Vue.js, HTML5, CSS3, Sass
 - **백엔드:** Javscript (Node.js), PHP, Java Spring
 - **데이터베이스:** Maria DB(MY SQL)
@@ -51,19 +51,19 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 - Spatial Navigation 구현으로 리모컨 조작 최적화
 
 ### Sayclub
-**기술 스택:** Nuxt.js(2), vue.js, scss, typescript
+**기술 스택:** Nuxt.js(2), Vue.js, TypeScript, SCSS
 
 - 사용자가 직접 라디오 방송국을 개설가능한 방송 서비스
-- 개인방송국 샤우트캐스트 Hls 스트리밍 연결 및 WebRTC 대체 연결
+- 개인방송국 샤우트캐스트 HLS 스트리밍 연결 및 WebRTC 대체 연결
 - 기 개발된 외부서버 Socket.io 기반 채팅서비스 내재화
 
 ### 서울 창업허브
-**기술 스택:** Java, jsp, javascript, scss
+**기술 스택:** Java, JSP, JavaScript, SCSS
 
-- 기존 개발된 java + jsp 기반 플랫폼 개편 및 고도화
+- 기존 개발된 java + JSP 기반 플랫폼 개편 및 고도화
 
 ### EBS Math, Play 세미
-**기술 스택:** Html, Scss, Javascript, Webpack
+**기술 스택:** Html, JavaScript, Webpack, SCSS
 
 - 바닐라 자바스크립트 기반의 문제 학습 캐릭터 스토리를 진행하는 인터랙티브 콘텐츠
 - GSAP 사용 타임라인 애니메이션 및 드래그 앤 드롭 액션
@@ -72,19 +72,19 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 
 
 ### 천재교육 과학 교과서 플래시 변환 사업
-**기술 스택:** nw.js, HTML, Scss, Javascript
+**기술 스택:** nw.js, HTML, JavaScript, SCSS
 
 - 기존 플래시로 개발된 전자교과서의 애니메이션과 문제풀이 액션을 HTML로 전환
 - Web Animation API 활용 애니메이션 및 Nw.js기반 교과서 컨텐츠 작성
 
 ### 레인보우 복지 플랫폼
-**기술 스택:** Angular 9, Typescript, Ionic FrameWork
+**기술 스택:** Angular 9, TypeScript, Ionic FrameWork
 
 - 공직자 대상의 휴대폰 복지 계약 어플리케이션
 - Ionic Framework 를 사용한 Angular9 기반의 코드베이스로 iOS / Android 동시 개발 및 스토어 배포
 
 ### 성남 모바일 앱 센터 베타존
-**기술 스택:** PHP 5.6, GNU Board, HTML, Javascript, CSS, Typescript, Angular 10, IonicFrameWork
+**기술 스택:** PHP 5.6, GNU Board, HTML, JavaScript, CSS, TypeScript, Angular 10, Ionic FrameWork
 
 - 성남 모바일 센터의 어플리케이션 베타테스터 모집 서비스
 - 기존 홈페이지가 PHP와 GNU Board 기반으로 작성 되어 있어 해당 플랫폼과 동일한 방식으로 작성 및 기존 회원과 연동 요구
@@ -95,43 +95,43 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 - FCM Push, Firebase DynamicLink 활용 알림 및 앱으로 바로 연결 서비스
 
 ### Finaple
-**기술 스택:** Angular11, Typescript, Scss, Capacitor (Ionic), Trapeze
+**기술 스택:** Angular11, TypeScript, Capacitor (Ionic), Trapeze, SCSS
 
 - 핀테크 서비스사의 보험관리사 연결 및 자산관리 파일럿 프로젝트
 - Cordova 모듈 형태의 공인인증서 연동 및 오픈뱅킹 계좌 조회 및 리스트 업
 - 자산정보 DB 연동으로 최근 3개월 자산 변화추이 차트 제공
 - 보험상담사 예약 및 완료시 FCM Push 알림 전달
-- trapeze 활용 Android Manifest 및 APPLE plist 갱신 자동화
+- trapeze 활용 Android Manifest 및 Apple plist 갱신 자동화
 
 ### CSLab
-**기술 스택:** Angular 10, Typescript, Scss, Ionic Framework
+**기술 스택:** Angular10, TypeScript, Ionic Framework, SCSS
 
 - 렌트카 계약 어플리케이션으로 렌트카 계약 및 배차 기사 호출, 배차 알림 등의 기능을 탑재한 하이브리드 어플리케이션
 - REST API를 통한 배차가능 차량 조회 및 예약
 - 배정완료시 FCM을 통한 알림
 
 ### SK Telecom 자율주행 차량 대쉬보드 프로토타입
-**기술 스택:** HTML, SCSS, Javascript
+**기술 스택:** HTML, JavaScript, SCSS
 
 - SK Telecom에서 제작 예정인 자율주행 차량의 대시보드 컨셉 프로토 타입 작성 및 전달
 - 방향키를 활용한 Accelerator Meter 조작 및 Fake 알림 구현
 - 구글맵 활용 Fake Navigation 구현
-- Javascript를 활용한 RandomTime 비상 상황 및 대쉬보드 알림
+- JavaScript를 활용한 RandomTime 비상 상황 및 대쉬보드 알림
 - 3840 * 1080 해상도의 와이드 레이아웃 구성
-- Javascript를 활용한 절차기반 Chatbot 구현
+- JavaScript를 활용한 절차기반 Chatbot 구현
 
 ### POLY 어학원 Interactive Content
-**기술 스택:** Bluega, HTML, SCSS, Javascript
+**기술 스택:** Bluega, HTML, JavaScript, SCSS
 
 - Poly 어학원에서 제공하는 컨텐츠 제작툴 Aspen Studio를 활용한 유아 교육 컨텐츠 제작
 - 인터렉션 기반 (클릭, 드래그) 문제 풀이 및 Sprite 활용 애니메이션
 - Socket 활용 전자칠판 및 유아 태블릿 정답 및 점수 연동
 
 ### 레인보우 컨설팅
-**기술 스택:** Angular 2, Angular7, Typescript, Scss, IonicFrameWork
+**기술 스택:** Angular2, Angular7, TypeScript, Ionic FrameWork, SCSS
 
 - 레인보우 통신사에서 사용하는 내부 계약앱
-- 기존 Angular2 기반 코드에서 Angular7로 리뉴얼 및 Ionic Framework 활용 AND / iOS 하이브리드 어플리케이션 개발
+- 기존 Angular2 기반 코드에서 Angular7로 리뉴얼 및 Ionic Framework 활용 Android / iOS 하이브리드 어플리케이션 개발
 
 ## 추가 정보
 
