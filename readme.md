@@ -20,7 +20,7 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 
 ## 직무 경력
 
-### FRONT END 개발자 | NHN Bugs, 서울
+### FRONT END 개발자 | NHN Bugs, 서울  
 *2022년 9월 - 현재*
 
 - Java Spring + Freemarker 기반 코드베이스 리팩토링으로 성능 개선
@@ -28,7 +28,7 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 - 무음청취 로그 측정 시스템 구현 및 Audio Visualizer 개발
 - NHN Bugs 레거시 프레임워크 리뉴얼 작업 주도 및 내부 플랫폼 빌드 환경 최적화
 
-### 개발자 | NHN SOFT, 서울
+### 개발자 | NHN SOFT, 서울  
 *2022년 8월 - 2022년 9월*
 
 - NHN 자사 서비스 개발 및 유지보수
@@ -42,8 +42,7 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 
 ## 주요 프로젝트
 
-### Bugs LiteApp, Essential; App (스마트 TV 앱)
-*NHN Bugs | 2022년 9월 - 현재*
+### Bugs LiteApp, Essential; App (스마트 TV 앱)  
 **기술 스택:** React, Webpack, TypeScript, SCSS
 
 - WebOS (LG) / Tizen (Samsung) 기반의 음악 스트리밍 앱 설계 및 개발
