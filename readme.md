@@ -1,7 +1,6 @@
 # 조석만 (Seokman Cho)
 
-대한민국 🇰🇷 | tunaflo@gmail.com | +82-10-3613-0267
-[GitHub](https://github.com/0x0e814b)
+대한민국 🇰🇷 | tunaflo@gmail.com | +82-10-3613-0267 | [GitHub](https://github.com/0x0e814b)
 
 ## 소개
 
