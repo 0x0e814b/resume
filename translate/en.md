@@ -13,7 +13,7 @@ I am Seokman Cho, a Front-end Developer based in South Korea with 6 years of exp
 - **Front-end:** React.js, Vue.js, HTML5, CSS3, Sass
 - **Back-end:** JavaScript (Node.js), PHP, Java Spring
 - **Database:** MariaDB (MySQL)
-- **Others:** RESTful API, Git, Agile/Scrum, Webpack, Vite, esbuild
+- **Others:** RESTful API, Git, Webpack, Vite, esbuild
 
 ## Professional Experience
 

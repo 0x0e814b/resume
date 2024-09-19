@@ -17,7 +17,7 @@ JavaScript와 관련 프레임워크에 대한 깊은 이해를 바탕으로 동
 - **프론트엔드:** React.js, Vue.js, HTML5, CSS3, Sass
 - **백엔드:** Javscript (Node.js), PHP, Java Spring
 - **데이터베이스:** Maria DB(MY SQL)
-- **기타:** RESTful API, Git, Agile/Scrum, Webpack, Vite, esbuild
+- **기타:** RESTful API, Git, Webpack, Vite, esbuild
 
 ## 직무 경력
 
